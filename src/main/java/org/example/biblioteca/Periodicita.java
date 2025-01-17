@@ -1,4 +1,5 @@
 package org.example.biblioteca;
 
-public class Periodicita {
+public enum Periodicita {
+    SETTIMANALE, MENSILE, SEMESTRALE
 }
