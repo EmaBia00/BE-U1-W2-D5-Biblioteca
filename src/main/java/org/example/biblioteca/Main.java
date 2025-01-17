@@ -24,7 +24,7 @@ public class Main {
             scanner.nextLine();
 
             //L'ho gestito con i case in modo da far scegliere all'utente cosa vuole fare inserendo il numero del caso da eseguire, di norma si dovrebbe partire dal 1 cosi si aggiunge un elemento per poter eseguire gli altri in modo indipendente e non perforza in ordine.
-            //Avrei voluto gestire meglio gli errori ma non sono riuscito a testare tutto quanto per mancanza di tempo.
+            //Avrei voluto gestire meglio gli errori ma non sono riuscito a testare tutto quanto nel migliore dei modi.
             switch (scelta) {
                 case 1:
                     System.out.print("Inserisci ISBN: ");
